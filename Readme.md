@@ -12,10 +12,7 @@
   </a>  
 </p>
 
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/jinspalakkattu/UFS-Adv-Auto-Filter-Bot-V3)..__
-
-__Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
-
+__വെറുതെ കുത്തിയിരുന്ന് നോക്കണ്ട എന്നെ MLM MOVIE STORE ഗ്രൂപ്പിൽ മാത്രേ ഉപയോഗിക്കാൻ പറ്റൂ 😁__
 
 ## Usage
 
