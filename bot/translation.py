@@ -6,14 +6,9 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>ഞാൻ MLM MOVIE STORE support bot ആണ്....😉
 
-Only For <b><u><a href="https://t.me/joinchat/TRlZZilyh-MVa66t">Universal Film Studio Group</a></u></b>
-
-For More Details Click Help Button Below..
-
-<b><u><a href="https://t.me/joinchat/YS-WlsUC9nFiOWM0">UFS Bot Support Group</a></u></b>
-</i>"""    
+"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
@@ -45,16 +40,15 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><u><a href="https://t.me/joinchat/YS-WlsUC9nFiOWM0">UFS Bot Support Group</a></u></b>
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Advanced Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> MLM MOVIE STORE SUPPORT RBOT</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/lnc3f3r">LuCifer</a></i></b>
+<b>➥ MAIN GROUP</b> : <b><i><a href="https://t.me/MLM_MOVIE_STORE">🔰JOIN NOW🔰</a></i></b>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>➥ MAIN CHANEL</b> : <b><i><a href="https://t.me/mlm_movie_2">🔰JOIN NOW🔰</a></i></b>
 
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>➥ TAMIL MOVIES</b> : <b><i><a href="https://t.me/tml_movie_store">🔰JOIN NOW🔰</a></i></b>
 
-<b>➥ Source Code</b> : <i><a href="https://t.me/joinchat/YS-WlsUC9nFiOWM0">Contact Us</a></i>
+<b>➥ MLM NEW UPDATEDS</b> : <b><i><a href="https://t.me/mlm_movies_update">🔰JOIN NOW🔰</a></i></b>
 """
