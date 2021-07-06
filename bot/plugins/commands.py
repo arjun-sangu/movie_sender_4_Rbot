@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎭 ⭕️ FOR YOUR QUERY, CONTACT ME ⭕️', url="https://t.me/UFSChatBot"
+                                    '⭕🎭 MAIN CHANEL 🎭⭕️', url="https://t.me/mlm_movie_2"
                                 )
                         ]
                     ]
@@ -57,7 +57,8 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎭 ⭕️ FOR YOUR QUERY, CONTACT ME ⭕️', url="https://t.me/UFSChatBot"
+                                    '⭕🎭 MAIN CHANEL 🎭⭕', url="https://t.me/mlm_movie_2
+"
                                 )
                         ]
                     ]
@@ -76,7 +77,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎭 ⭕️ FOR YOUR QUERY, CONTACT ME ⭕️', url="https://t.me/UFSChatBot"
+                                    '⭕🎭 MAIN CHANEL 🎭⭕', url="https://t.me/mlm_movie_2"
                                 )
                         ]
                     ]
@@ -89,10 +90,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/joinchat/TRlZZilyh-MVa66t'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/joinchat/YS-WlsUC9nFiOWM0')
+        InlineKeyboardButton('🔰MAIN GROUP🔰', url='https://t.me/MLM_MOVIE_STORE'),
+        InlineKeyboardButton('🔰MAIN CHANEL🔰', url ='https://t.me/mlm_movie_2')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/joinchat/YS-WlsUC9nFiOWM0')
+        InlineKeyboardButton('🔰UPDATED CHANEL🔰', url='https://t.me/mlm_movies_update')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
