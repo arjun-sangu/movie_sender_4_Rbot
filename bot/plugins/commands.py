@@ -58,7 +58,6 @@ async def start(bot, update):
                             InlineKeyboardButton
                                 (
                                     '⭕🎭 MAIN CHANEL 🎭⭕', url="https://t.me/mlm_movie_2"
-"
                                 )
                         ]
                     ]
