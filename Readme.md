@@ -1,4 +1,4 @@
-# UFS Adv Auto Filter Bot V3
+# arjunsangu/movie_sender_4_Rbot
 
 <p align="center">
   <a href="https://github.com/jinspalakkattu/UFS-Adv-Auto-Filter-Bot-V3/stargazers">
