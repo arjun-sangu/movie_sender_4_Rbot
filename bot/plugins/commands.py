@@ -90,7 +90,8 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('🔰MAIN GROUP🔰', url='https://t.me/MLM_MOVIE_STORE'),
-        InlineKeyboardButton('🔰MAIN CHANEL🔰', url ='https://t.me/mlm_movie_2')
+        InlineKeyboardButton('🔰MAIN CHANEL 2🔰', url ='https://t.me/mlm_movie_2')
+        InlineKeyboardButton('🔰MAIN CHANEL 1🔰', url ='https://t.me/mlm_movie_1')
     ],[
         InlineKeyboardButton('🔰UPDATED CHANEL🔰', url='https://t.me/mlm_movies_update')
     ],[
