@@ -134,7 +134,7 @@ async def auto_filter(bot, update):
                 ]
             )
         #https://telegra.ph/file/f3ea3421859204e383b03.jpg
-    elese:
+    else:
         Send_message=await bot.send_video(
                 chat_id = update.chat.id,
                 
